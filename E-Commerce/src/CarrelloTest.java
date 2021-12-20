@@ -58,6 +58,9 @@ public class CarrelloTest {
 		assertEquals(expected, carrello.getamount());
 		System.out.println("Esempio di commit");
 		System.out.println("MODIFICA LOCALE");
+
+
+
 	}
 	}
 	
