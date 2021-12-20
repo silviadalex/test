@@ -61,6 +61,7 @@ public class CarrelloTest {
 
 
 
+		System.out.println("Un bug-fix sul branch master");
 	}
 	}
 	
