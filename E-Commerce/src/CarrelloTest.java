@@ -56,7 +56,7 @@ public class CarrelloTest {
 		carrello.insertOneProduct();
 		carrello.removeOneProduct();
 		assertEquals(expected, carrello.getamount());
-		
+		System.out.println("Esempio di commit");
 	}
-
-}
+	}
+	
